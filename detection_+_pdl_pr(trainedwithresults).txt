@@ -1,0 +1,56 @@
+
+Starting Epoch 1/2
+  Step 0 | Loss: 4.1893
+  Step 500 | Loss: 2.4361
+  Step 1000 | Loss: 3.4852
+  Step 1500 | Loss: 2.4322
+  Step 2000 | Loss: 3.5897
+  Step 2500 | Loss: 2.8759
+  Step 3000 | Loss: 3.4639
+  Step 3500 | Loss: 3.8014
+  Step 4000 | Loss: 3.9798
+  Step 4500 | Loss: 2.6543
+  Step 5000 | Loss: 3.2814
+  Step 5500 | Loss: 2.6013
+  Step 6000 | Loss: 2.2784
+  Step 6500 | Loss: 3.5182
+  Step 7000 | Loss: 2.5925
+  Step 7500 | Loss: 2.4558
+  Step 8000 | Loss: 2.9156
+  Step 8500 | Loss: 2.2887
+  Step 9000 | Loss: 3.4519
+  Step 9500 | Loss: 2.4666
+  Step 10000 | Loss: 3.1540
+  Step 10500 | Loss: 4.3444
+  Step 11000 | Loss: 3.6855
+  Step 11500 | Loss: 2.7650
+  Step 12000 | Loss: 2.5703
+Epoch 1 - Loss: 0.0000
+
+Starting Epoch 2/2
+  Step 0 | Loss: 2.8724
+  Step 500 | Loss: 3.1429
+  Step 1000 | Loss: 3.2796
+  Step 1500 | Loss: 3.2658
+  Step 2000 | Loss: 2.4278
+  Step 2500 | Loss: 4.8816
+  Step 3000 | Loss: 2.0704
+  Step 3500 | Loss: 3.0951
+  Step 4000 | Loss: 3.3973
+  Step 4500 | Loss: 2.4095
+  Step 5000 | Loss: 3.2735
+  Step 5500 | Loss: 2.0864
+  Step 6000 | Loss: 2.7152
+  Step 6500 | Loss: 3.2828
+  Step 7000 | Loss: 3.3318
+  Step 7500 | Loss: 2.2270
+  Step 8000 | Loss: 2.4151
+  Step 8500 | Loss: 2.4509
+  Step 9000 | Loss: 2.8919
+  Step 9500 | Loss: 2.4752
+  Step 10000 | Loss: 2.9586
+  Step 10500 | Loss: 3.1547
+  Step 11000 | Loss: 2.8349
+  Step 11500 | Loss: 2.7783
+  Step 12000 | Loss: 3.3582
+Epoch 2 - Loss: 0.0000
